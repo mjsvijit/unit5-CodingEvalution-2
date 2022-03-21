@@ -1,0 +1,10 @@
+.inputRows{
+    display:flex;
+    flex-direction: column;
+    width:300px;
+    
+}
+#button{
+    width:250px;
+    margin-left: 25px;
+}
